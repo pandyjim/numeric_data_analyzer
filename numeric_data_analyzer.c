@@ -1,3 +1,13 @@
+
+//Developed by JIMIT PANDYA
+
+//Developed a C program to produce output in tabular like format after obtaining the input from user.
+//The output display values stored in array which were entered by users.
+//Made sure to utilize 'isPrime' and 'isOdd' fuction to identify the numbers. 
+//Also made sure to identify and tag minimum and maximum number from the input.
+//The program also adds and averages the input added by the user.
+
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <limits.h>
